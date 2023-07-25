@@ -4,7 +4,7 @@ The analysis aims to build a deep learning model using a neural network for Alph
 
 Results:
 
-#Data Preprocessing:
+# Data Preprocessing:
 
 Target Variable(s): The target variable is "IS_SUCCESSFUL," indicating if an applicant received funding (1) or not (0).
 
@@ -12,7 +12,7 @@ Feature Variable(s): All columns except "IS_SUCCESSFUL" are used as features to 
 
 Variables to be Removed: The "EIN" and "NAME" columns, used as identifiers, are removed from the input data.
 
-#Compiling, Training, and Evaluating the Model:
+# Compiling, Training, and Evaluating the Model:
 
 Model Architecture: Specifics on neurons, layers, and activation functions are not given.
 
